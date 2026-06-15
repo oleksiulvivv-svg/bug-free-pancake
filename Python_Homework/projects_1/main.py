@@ -790,4 +790,5 @@
 # start_race([car1, car2])   
 # start_race([car1, car2])
 # start_race([car1,car2])
-print("Закриплюю матеріал")              
+print("Закриплюю матеріал")
+print("Тест2 ")             
