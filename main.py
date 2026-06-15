@@ -790,4 +790,4 @@
 # start_race([car1, car2])   
 # start_race([car1, car2])
 # start_race([car1,car2])
-              
+print("Тест звязку з GitHub")             
